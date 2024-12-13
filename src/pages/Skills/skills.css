@@ -1,12 +1,12 @@
 .Containerskills{
     margin: 0;
     padding: 0;
-    min-height: 75vh;
+    min-height: 100vh;
 }
 
 .icons{
-    margin-top: 150px;
-    
+    margin-top: 50px;
+    margin-left: -50px;   
 }
 
 .iconslinhas{
@@ -25,8 +25,8 @@
 }
 
 .textoskill{
-    margin-top: 20px;
     margin-left: 0px;
+    margin-top: 90px;
 }
 
 .linha2{
@@ -38,7 +38,7 @@
     opacity: 60%;
     position: absolute;
     left: 0;
-    top: 1600px;
+    top: 1800px;
     
 }
 
